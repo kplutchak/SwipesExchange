@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwipesExchange</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="list_location">
+        <item >De Neve</item>
+        <item >Covel</item>
+        <item >De Neve</item>
+    </string-array>
+    <string-array name="list_details">
+        <item >Selling $5 ea</item>
+        <item >Selling $4 ea</item>
+        <item >Selling $4 ea</item>
+    </string-array>
+    
+
+</resources>
